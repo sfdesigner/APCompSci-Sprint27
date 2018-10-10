@@ -1,0 +1,11 @@
+"C:\Program Files\Java\jdk-10.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\lib\idea_rt.jar=59123:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\dougw\IdeaProjects\Sprint24\out\production\Sprint24 Main
+myValue = 10.00 and myOtherValue = 12.50.
+------------------ Starting method
+value1 = 10.00 and value2 = 12.50.
+value1 = 20.20 and value2 = 18.00.
+myValue = 10.00 and myOtherValue = 12.50.
+The product is 363.60
+------------------ Returning from method
+myValue = 10.00 and myOtherValue = 12.50.
+
+Process finished with exit code 0
